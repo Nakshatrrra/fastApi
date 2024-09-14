@@ -1,0 +1,5 @@
+fastapi
+pydantic[email]
+motor
+python-decouple
+uvicorn
